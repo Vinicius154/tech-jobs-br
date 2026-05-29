@@ -14,3 +14,4 @@ wheels/
 *.pyc
 data/raw/*.csv
 .ipynb_checkpoints/
+.ruff_cache/
