@@ -1,7 +1,7 @@
 # tech-jobs-br
 
 Análise automatizada do mercado de vagas tech remotas.
-Coleta · limpeza · visualização — Python moderno com uv.
+Coleta · limpeza · visualização, Python moderno com uv.
 
 ## Insights
 
