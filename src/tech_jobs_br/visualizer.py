@@ -65,7 +65,7 @@ def chart_top_technologies(df: pd.DataFrame) -> None:
     fig.update_layout(**DARK_LAYOUT)
     output = CHARTS_DIR / "top_technologies.png"
     fig.write_image(output, width=900, height=500)
-    log.info("✓ %s", output)
+    log.info("%s", output)
 
 
 def main() -> None:
