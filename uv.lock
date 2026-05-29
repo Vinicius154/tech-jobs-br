@@ -1771,6 +1771,7 @@ dependencies = [
     { name = "kaleido" },
     { name = "pandas" },
     { name = "plotly" },
+    { name = "setuptools" },
 ]
 
 [package.dev-dependencies]
@@ -1785,6 +1786,7 @@ requires-dist = [
     { name = "kaleido", specifier = ">=1.3.0" },
     { name = "pandas", specifier = ">=3.0.3" },
     { name = "plotly", specifier = ">=6.7.0" },
+    { name = "setuptools", specifier = ">=82.0.1" },
 ]
 
 [package.metadata.requires-dev]
